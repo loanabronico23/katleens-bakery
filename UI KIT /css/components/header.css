@@ -1,0 +1,12 @@
+
+
+ 
+#image-text{
+    position: absolute;
+    top: 60%;
+    left: 60%;
+    color: #000;
+    transform: translate(-30%, -30%);
+    text-align: center;
+    display: flex;
+}
