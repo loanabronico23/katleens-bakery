@@ -1,0 +1,14 @@
+.btn-blue {
+    background-color: #582900;
+    opacity: 40%;
+    padding: 15px 20px;
+    color: white;
+    border-radius: 5px;
+    font-family: 'Rajdhani', sans-serif;
+
+}
+
+.btn-blue:hover { 
+    opacity: 0.6;
+}
+
